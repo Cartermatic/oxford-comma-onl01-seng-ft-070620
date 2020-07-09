@@ -1,7 +1,4 @@
 def oxford_comma(array)
-  ["kiwi"].join
+  if array.length == 2
 end
 
-def oxford_comma(array)
-  ["kiwi","durian"].join(" and ")
-end
